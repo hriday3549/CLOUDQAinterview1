@@ -17,6 +17,7 @@ dotnet run -- "https://test.example/form-v2" "Poorav" "Male" "Pakistan"
 ```
 
 The dropdown argument must match an available option's visible text. The program intentionally does not submit the form.
+After filling the form, the browser remains open until you press Enter in the console.
 
 ## Locator strategy and limits
 

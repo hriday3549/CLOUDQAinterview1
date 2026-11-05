@@ -86,11 +86,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\parsh\\Documents\\Codex\\2026-11-05\\1-visit-the-page-app-cloudqa\\outputs\\AutomationPracticeForm\\AutomationPracticeForm.csproj",
+      "projectUniqueName": "C:\\Users\\parsh\\Desktop\\AutomationPracticeForm\\AutomationPracticeForm.csproj",
       "projectName": "AutomationPracticeForm",
-      "projectPath": "C:\\Users\\parsh\\Documents\\Codex\\2026-11-05\\1-visit-the-page-app-cloudqa\\outputs\\AutomationPracticeForm\\AutomationPracticeForm.csproj",
+      "projectPath": "C:\\Users\\parsh\\Desktop\\AutomationPracticeForm\\AutomationPracticeForm.csproj",
       "packagesPath": "C:\\Users\\parsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\parsh\\Documents\\Codex\\2026-11-05\\1-visit-the-page-app-cloudqa\\outputs\\AutomationPracticeForm\\obj\\",
+      "outputPath": "C:\\Users\\parsh\\Desktop\\AutomationPracticeForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\parsh\\AppData\\Roaming\\NuGet\\NuGet.Config"

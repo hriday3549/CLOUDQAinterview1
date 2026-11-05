@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AutomationPracticeForm
-build_property.ProjectDir = C:\Users\parsh\Documents\Codex\2026-11-05\1-visit-the-page-app-cloudqa\outputs\AutomationPracticeForm\
+build_property.ProjectDir = C:\Users\parsh\Desktop\AutomationPracticeForm\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

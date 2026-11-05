@@ -41,6 +41,8 @@ selectState.SelectByText(state);
 Console.WriteLine($"First Name: {firstNameBox.GetDomProperty("value")}");
 Console.WriteLine($"Gender: {gender} (selected)");
 Console.WriteLine($"State: {selectState.SelectedOption.Text}");
+Console.WriteLine("The browser will remain open. Press Enter to close it.");
+Console.ReadLine();
 
 static string? GetNamedValue(string[] args, string optionName)
 {
@@ -141,4 +143,3 @@ static bool MatchesKind(IWebElement element, string kind)
 }
 
 static string XPathLiteral(string text) => "'" + text.Replace("'", "&apos;") + "'";
-
